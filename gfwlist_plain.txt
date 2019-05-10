@@ -7922,9 +7922,6 @@ ultrasurf
 @@||safebrowsing.googleapis.com
 @@||cn.gravatar.com
 @@||connectivitycheck.gstatic.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||ssl.gstatic.com
 @@||haosou.com
 @@||jike.com
 @@|http://translate.google.cn
